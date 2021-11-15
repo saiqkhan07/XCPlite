@@ -97,9 +97,12 @@ extern int _kbhit();
 #endif
 
 
-#endif
-
-
 #ifdef __cplusplus
 }
 #endif
+
+
+#endif
+
+
+
